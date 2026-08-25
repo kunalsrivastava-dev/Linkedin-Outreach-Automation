@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+sessions/
+screenshots/
+logs/
+data/processed_profiles.json
+data/seen.json
+
